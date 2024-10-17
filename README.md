@@ -1,6 +1,6 @@
 Hi 🙋🏼‍♂️
 
-I am CTO at Kidium & Backend Team Lead at PettersonApps 👨🏼‍💻
+I am CTO at Kidium & Backend Team Lead 👨🏼‍💻
 
 I know JS, Ruby & Java 🤔
 
